@@ -1,0 +1,27 @@
+[project]
+name = "healthcare-with-agentic-rag"
+version = "0.1.0"
+description = "In this repository we created an Agentic Rag using crewai and qdrant and applied it to the healthcare sector."
+authors = [
+    {name = "EddyGiusepe",email = "eddychirinos.unac@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+dependencies = [
+    "crewai (>=0.98.0,<0.99.0)",
+    "crewai-tools (>=0.32.1,<0.33.0)",
+    "python-dotenv (>=1.0.1,<2.0.0)",
+    "qdrant-client (>=1.13.2,<2.0.0)",
+    "fastembed (>=0.5.1,<0.6.0)",
+    "openlit (>=1.33.4,<2.0.0)",
+    "streamlit (>=1.41.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+
