@@ -40,6 +40,8 @@ cd openlit
 
 docker compose up -d     ou     docker compose up
 
+sudo docker compose down
+
 pip install openlit
 ```
 
