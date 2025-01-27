@@ -1,0 +1,104 @@
+{
+    "data": [
+      {
+        "cardio": [
+          {
+            "case": "Um homem de 67 anos apresenta dispneia de esforço e aperto no peito que vêm piorando progressivamente nos últimos três meses. Seus sintomas geralmente ocorrem após caminhar dois quarteirões e desaparecem com repouso. O ECG mostra depressão do segmento ST nas derivações V4-V6 durante o teste de esforço, sugerindo doença arterial coronária significativa. O painel lipídico do paciente revela colesterol LDL e triglicerídeos elevados, indicando a necessidade de tratamento médico agressivo."
+          },
+          {
+            "case": "Uma mulher de 54 anos com histórico de hipertensão se apresenta ao departamento de emergência com início súbito de palpitações, tontura e ansiedade. O monitoramento cardíaco revela fibrilação atrial com resposta ventricular rápida a 150 batimentos por minuto. A pressão arterial da paciente está elevada a 168/95 mmHg. O ecocardiograma mostra aumento atrial esquerdo leve, mas fração de ejeção preservada."
+          },
+          {
+            "case": "Um homem de 82 anos com histórico de insuficiência cardíaca se apresenta com edema bilateral nas pernas, dispneia de esforço e dispneia paroxística noturna. A exame físico revela ruídos bilaterais nas bases pulmonares e distensão venosa jugular. Os níveis de BNP são significativamente elevados a 1,200 pg/mL. O paciente está recebendo furosemide e lisinopril."
+          },
+          {
+            "case": "Uma mulher de 45 anos se apresenta com desmaio durante uma maratona. Seu ECG em repouso mostra critérios de hipertrofia ventricular esquerda e inversão do T-wave nas derivações laterais. O subsequente exame cardíaco por imagem revela hipertrofia septal assimétrica consistente com doença cardíaca hipertrofia, levando a preocupações sobre a continuidade na prática de esportes competitivos."
+          },
+          {
+            "case": "Um homem de 72 anos com doença arterial coronária se apresenta com início súbito de dor intensa no peito, sudorese e falta de ar. O ECG mostra elevação do segmento ST nas derivações II, III e aVF, consistente com STEMI inferior. A angiografia cardíaca revela 100% obstrução da artéria coronária direita, requerendo intervenção imediata."
+          },
+          {
+            "case": "Uma mulher de 59 anos se apresenta com fadiga progressiva, edema periférico e diminuição da capacidade de exercício. O ecocardiogram revela severa estenose aórtica com área da válvula de 0,8 cm² e gradiente médio de 45 mmHg. O paciente desenvolveu hipertrofia ventricular esquerda como mecanismo compensatório."
+          },
+          {
+            "case": "Um homem de 63 anos com diabetes se apresenta com dor no peito e dispneia. O teste de estresse nuclear revela deficiência reversível de perfusão nas paredes anteriores e laterais, sugerindo doença arterial coronária multivascular significativa. A pontuação de calcificação cardíaca mostra calcificação extensa, apoiando a necessidade de intervenção adicional."
+          }
+        ]
+      },
+      {
+        "ortho": [
+          {
+            "case": "Um homem de 28 anos se apresenta com dor aguda no joelho e edema após uma lesão de pivotação durante um jogo de futebol. O exame físico revela um teste de Lachman positivo e sinal de deslizamento anterior. O exame por imagem revela uma lesão completa do ligamento cruzado anterior com contusões ósseas laterais do condilo femoral e tíbia posterior."
+          },
+          {
+            "case": "Uma mulher de 75 anos se apresenta com dor progressiva no joelho direito e dificuldade em caminhar. O exame de raios X mostra severa artrite osteoarticular com estreitamento do espaço articular, esferóides subchondrais e formação de osteófitos. O paciente relata que a terapia conservadora com NSAIDs e fisioterapia forneceu pouco alívio."
+          },
+          {
+            "case": "Um homem de 45 anos se apresenta com dor crônica na lombar e irradiação para a perna direita. O exame por imagem revela uma hernia de disco L5-S1 com compressão do nervo raiz. O paciente relata dor e formigamento na perna direita, com fraqueza na flexão plantar sugerindo radiculopatia S1."
+          },
+          {
+            "case": "Uma jovem de 16 anos se apresenta com dor crônica na lombar. O exame de raios X revela uma deficiência no par interarticularis em L5, consistente com spondilolise. O paciente relata que a dor aumenta com extensão da coluna e atividades impactantes, afetando sua capacidade de treinar."
+          },
+          {
+            "case": "Um homem de 52 anos se apresenta com dor no ombro e limitação da amplitude de movimento. O exame por imagem revela uma lesão completa do tendão supraspinato com retração moderada. O paciente relata dificuldade com atividades sobre a cabeça e dor noturna, significativamente afetando suas atividades diárias."
+          },
+          {
+            "case": "Uma mulher de 68 anos se apresenta com dor bilateral nos joelhos e rigidez matinal. O exame de raios X mostra artrite osteoarticular tricompartimental com deformidade varus. O paciente tentou vários tratamentos conservadores, incluindo injeções de corticosteroides com alívio gradualmente diminuindo."
+          },
+          {
+            "case": "Um homem de 35 anos se apresenta com dor crônica no pulso e diminuição da força de agarrar. O exame por imagem revela uma lesão do ligamento scapho-lunato com aumento do intervalo scapho-lunato nas vistas de estresse. O paciente relata dificuldade com o peso do pulso e diminuição da capacidade de realizar agarradas."
+          }
+        ]
+      },
+      {
+        "neuro": [
+          {
+            "case": "Uma mulher de 42 anos se apresenta com episódios recorrentes de distúrbios visuais seguidos por dor de cabeça unilateral e pulsante. Ela descreve ver linhas em zigue-zague e pontos brilhantes que duram 20-30 minutos antes do início de dor de cabeça severa associada a náusea e fotofobia, consistente com migraine com aura."
+          },
+          {
+            "case": "Um homem de 65 anos se apresenta com tremor progressivo afetando ambas as mãos, piorando com movimentos intencionais. O exame neurológico revela tremor intencional, dismetria no teste de dedo-para-nariz e passo largo, sugerindo disfunção cerebelar. O exame por imagem revela atrofia cerebelar consistente com ataxia espinocerebelar."
+          },
+          {
+            "case": "Uma mulher de 55 anos se apresenta com início agudo de fraqueza do lado direito e dificuldade em falar. O exame por imagem revela uma área hipodensa na artéria cerebral esquerda consistente com um AIS. O paciente chega dentro da janela terapêutica para a trombolise."
+          },
+          {
+            "case": "Uma mulher de 30 anos se apresenta com episódios recorrentes de diplopia, fraqueza muscular e fadiga que pioram ao longo do dia. As anticorpos para receptor de acetilcolina são positivos, e a estimulação repetida do nervo mostra resposta decremental, confirmando o diagnóstico de miastenia gravis."
+          },
+          {
+            "case": "Um homem de 48 anos se apresenta com perda progressiva de memória, mudanças de personalidade e dificuldade com funções executivas. O exame por imagem revela atrofia frontotemporal, e o teste genético revela uma mutação associada com doença frontotemporal. A família do paciente relata mudanças comportamentais significativas nos últimos anos."
+          },
+          {
+            "case": "Uma mulher de 25 anos se apresenta com episódios recorrentes de parestesia e formigamento em várias partes do corpo, acompanhados de distúrbios visuais. O exame por imagem revela lesões brancas periventriculares múltiplas consistentes com esclerose múltipla. O exame de líquido cefalorraquidiano mostra bandas oligoclonais."
+          },
+          {
+            "case": "Um homem de 70 anos se apresenta com tremor progressivo assimétrico e rigidez. O exame neurológico revela tremor em repouso, bradikinesia e instabilidade postural. O exame DaTscan mostra diminuição da absorção do transmissor de dopamina consistente com doença de Parkinson."
+          }
+        ]
+      },
+      {
+        "gastro": [
+          {
+            "case": "Uma mulher de 35 anos se apresenta com diarreia crônica, dor abdominal e perda de peso. O colonoscópio revela lesões saltatórias com aspecto de pedra de mão no intestino terminal e colon ascendente, consistente com doença de Crohn. A biópsia do tecido mostra granulomas não caseantes."
+          },
+          {
+            "case": "Um homem de 55 anos se apresenta com dificuldade progressiva em deglutição tanto de sólidos quanto de líquidos. O exame por imagem revela esôfago dilatado com aspecto de bico de pássaro. A manometria confirma ausência de peristalse e relaxamento incompleto do sínclise esofágica inferior, consistente com achalasia."
+          },
+          {
+            "case": "Uma mulher de 45 anos se apresenta com dor no quadrante superior direito, náusea e intolerância a alimentos gordurosos. O exame por imagem revela múltiplas cálculos biliares com espessura da parede do vesículo biliar. O exame HIDA mostra diminuição da fração de ejeção do vesículo biliar, confirmando a doença choledítica crônica."
+          },
+          {
+            "case": "Um homem de 60 anos se apresenta com icterícia progressiva, urina escura e fezes de coloração barroca. O exame por imagem revela massa no cabeça pancreática causando obstrução biliar. O CA 19-9 está elevado, e a subsequente biópsia confirma adenocarcinoma pancreático."
+          },
+          {
+            "case": "Um homem de 28 anos se apresenta com diarreia crônica, urgência e tenesmo. O colonoscópio revela inflamação contínua com friabilidade e pseudopolípode estendendo-se do reto à flexão splênica, consistente com colite ulcerativa."
+          },
+          {
+            "case": "Uma mulher de 50 anos se apresenta com dor no estômago, saciedade precoce e perda involuntária de peso. O exame endoscópico revela uma grande ulceração gástrica com bordas irregulares. A biópsia confirma adenocarcinoma gástrico, e o teste H. pylori é positivo."
+          },
+          {
+            "case": "Um homem de 65 anos se apresenta com dificuldade em deglutição de sólidos, perda progressiva de peso e regurgitação de alimentos não digeridos. O exame por imagem revela uma massa na terceira parte do esôfago, com biópsia confirmando carcinoma de células escamosas."
+          }
+        ]
+      }
+    ]
+  }
