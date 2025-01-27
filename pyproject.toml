@@ -14,7 +14,8 @@ dependencies = [
     "qdrant-client (>=1.13.2,<2.0.0)",
     "fastembed (>=0.5.1,<0.6.0)",
     "openlit (>=1.33.4,<2.0.0)",
-    "streamlit (>=1.41.1,<2.0.0)"
+    "streamlit (>=1.41.1,<2.0.0)",
+    "gpt4all (>=2.8.2,<3.0.0)"
 ]
 
 
