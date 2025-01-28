@@ -5,7 +5,7 @@
 
 In this repository we created an Agentic Rag using crewai and qdrant and applied it to the healthcare sector.
 
-This project was inspired by the author: [M K Pavan Kumar](https://ai.gopubby.com/building-agentic-rag-pipelines-for-medical-data-with-crewai-and-qdrant-3a00a48fb0d1)
+This project was inspired by the author: [M K Pavan Kumar](https://ai.gopubby.com/building-agentic-rag-pipelines-for-medical-data-with-crewai-and-qdrant-3a00a48fb0d1) e [aqui](https://github.com/pavanjava/healthcare_agentic_rag/tree/main).
 
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Nr8wzNBPmhp-uCBne9_MzQ.png)
 
@@ -70,8 +70,6 @@ Seu banco de dados vetorial é o `Qdrant`. A interface web do `Qdrant` com nosso
 
 
 
-
-https://github.com/pavanjava/healthcare_agentic_rag/tree/main
 
 
 
